@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+### react js ###
+/src/quiz-frunt/node_modules/
